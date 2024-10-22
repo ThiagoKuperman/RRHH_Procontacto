@@ -87,17 +87,17 @@ Content-Type: Especifica el tipo de contenido del cuerpo del request o response 
 
 ###  1.	Realizar un request GET a la URL
 
- ![IMAGEN GET](/Tp_kuperman/img/GET1.jpeg)
+ ![IMAGEN GET](/img/GET1.jpeg)
 
 
 ### 2.	Realizar un request POST a la URL anterior
 
-![Texto alternativo](/Tp_kuperman/img/POST.jpeg)
+![Texto alternativo](/img/POST.jpeg)
 
 
 ### 3. Realizar nuevamente un request GET a la URL
 
-![IMAGEN GET](/Tp_kuperman/img/GET2.jpeg)
+![IMAGEN GET](/img/GET2.jpeg)
 
 # EJERCICIO 4
 
@@ -150,7 +150,7 @@ Content-Type: Especifica el tipo de contenido del cuerpo del request o response 
 
 ### Diagrama:
 
-![IMAGEN GET](/Tp_kuperman/img/Salesforce.drawio.png)
+![IMAGEN GET](/img/Salesforce.drawio.png)
 
 
 # EJERCICIO 6
